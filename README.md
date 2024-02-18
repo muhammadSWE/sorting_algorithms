@@ -1,4 +1,4 @@
-# 0x19. C - Stacks, Queues - LIFO, FIFO
+# 0x1B. C - Sorting algorithms & Big O
 ## ALX SE
 
 #### This project was developed by:
